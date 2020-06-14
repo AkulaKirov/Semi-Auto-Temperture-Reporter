@@ -17,8 +17,8 @@ url = 'http://www.xszongping.com/Health/EpidemicHealthRecord/postHealth'
 checkTokenT = 'http://www.xszongping.com/School/User/checkToken'
 userName = ''
 token = ''
-acc = '13950210193'
-pwd = 'efz123456'
+acc = '114514'
+pwd = '114514'
 
 def wooHoo() :
     global token
